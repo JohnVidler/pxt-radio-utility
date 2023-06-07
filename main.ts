@@ -1,5 +1,5 @@
 //% block="Radio Extras"
-//% color="#61d15a"
+//% color="#bb2779"
 //% icon="\uf1eb"
 //% groups=[ "Layer 2", "Layer 3", "Layer 4" ]
 namespace RadioUtility {
